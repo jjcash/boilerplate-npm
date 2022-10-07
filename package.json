@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Guilherme Daniel",
 	"description": "Im almost desperate to get rich, wise and intelligent",
+	"keywords": [ "freecodecamp", "marllon te amo"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
