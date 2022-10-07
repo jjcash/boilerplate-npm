@@ -1,6 +1,6 @@
 {
-	"author": "Guilherme Daniel",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Guilherme Daniel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
